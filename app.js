@@ -431,7 +431,7 @@ res.writeHead(200, {'Content-Type': 'application/json'});
 	
 //remove from body	
 //db.newsFeed.remove({"memberid":memberid}, function(err, remove) { 	
-	
+//testing...	
 	
 }).listen(8181, '192.168.76.3');
 console.log('Server running at http://60.80.70.0:8181');
